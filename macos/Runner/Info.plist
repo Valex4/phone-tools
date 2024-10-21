@@ -28,5 +28,11 @@
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>Esta aplicación necesita acceso a tu ubicación.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Esta aplicación necesita acceso a tu ubicación todo el tiempo.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Necesitamos acceder a la cámara para escanear códigos QR</string>
 </dict>
 </plist>
